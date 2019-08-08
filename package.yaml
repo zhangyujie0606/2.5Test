@@ -11,6 +11,7 @@ license: MIT                                   # GPLv2，LGPLv2.1，MIT，Apache
 
 source_file:
   - src/*.c
+logo：http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E6%9D%8E%E6%98%93%E5%B3%B0&step_word=&hs=0&pn=1&spn=0&di=61490&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=668515561%2C3337529090&os=1795854278%2C1003247339&simid=4053682836%2C333459273&adpicid=0&lpn=0&ln=2110&fr=&fmq=1565246143989_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=star&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201605%2F06%2F20160506152334_5TVHr.thumb.700_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dc08dclbc0&gsm=0&rpstart=0&rpnum=0&islist=&querylist=
 
 build_config:
   include:
