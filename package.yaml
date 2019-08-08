@@ -1,4 +1,4 @@
-name: zhangyujie test
+name: zhangyujieaa
 description: 一种轻量级的 websocket 的客户端。1.CDK：添加工程后，组件里显示不合理yoc7
 2.CDK：烧写elf文件流程不合理，最好先添加，而不是等到建立工程后
 3.CDK：修改工程名称后，建议文件夹名称联动修改
