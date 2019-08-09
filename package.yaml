@@ -2,10 +2,9 @@ name: 李易峰
 description: 
 homepage: 
 keywords:
-logo: http://b-ssl.duitang.com/uploads/item/201510/21/20151021214935_zLVKC.jpeg
 source_file:
   - src/*.c
-logo: https://www.lua.org/images/lua-logo.gif
+logo: https://b-ssl.duitang.com/uploads/item/201510/21/20151021214935_zLVKC.jpeg
 build_config:
   include:
     - include
