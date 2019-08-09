@@ -1,8 +1,6 @@
 name: 图像!@#$%^&*(){}|;'<?>
-keywords:
-  - zhangyujie
-  - 张玉洁的标签
-license: MIT                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
+description:
+license: MIT                            
 
 source_file:
   - src/*.c
