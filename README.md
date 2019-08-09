@@ -3,10 +3,7 @@
 
 ### Features
 
-- No additional dependecies
-- Single header library interface librws.h with public methods
-- Thread safe
-- Send/receive logic in background thread
+http://192.168.0.177:8080/issues/?jql=project%20%3D%20COP%20AND%20issuetype%20%3D%20Bug%20ORDER%20BY%20created%20DESC%2C%20priority%20DESC%2C%20updated%20DESC
 
 ### Example
 ##### Create and store websocket object handle
