@@ -1,28 +1,8 @@
-name: 多标签222
-description: 空
-homepage: https://item.taobao.com/item.htm?spm=2013.1.0.0.539b445avBrECk&id=570014022304&scm=1007.12144.95220.42296_0_0&pvid=685bfbb2-38c8-4315-bd0f-9e2c11c4762a&utparam=%7B%22x_hestia_source%22%3A%2242296%22%2C%22x_object_type%22%3A%22item%22%2C%22x_mt%22%3A0%2C%22x_src%22%3A%2242296%22%2C%22x_pos%22%3A1%2C%22x_pvid%22%3A%22685bfbb2-38c8-4315-bd0f-9e2c11c4762a%22%2C%22x_object_id%22%3A570014022304%7D
+name: 空值
+description: 
+homepage: 
 keywords:
-  - 张玉洁的标签
-  - w1
-  - 一二三四五六七八九十
-  - q2
-  - a
-  - 测试1
-  - 测试2
-  - 测试3
-  - 测试4
-  - 测试5
-  - 测试6
-  - QWERTYUIO
-  - qwertyuio
-  - SDFGHJKL
-  - sdfghjkl
-  - 去微软推哦怕的风格和健康v不那么，
-  - ertyfghvbn
-  - vyncovn
-  - nidvuw
-  - a1234567890  
-  
+logo:
 source_file:
   - src/*.c
 logo: https://www.lua.org/images/lua-logo.gif
