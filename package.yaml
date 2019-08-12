@@ -1,10 +1,10 @@
 name: update测试111
-description: test
+description: test666
 homepage: www.baidu.com
 keywords:
 source_file:
   - src/*.c
-logo: https://b-ssl.duitang.com/uploads/item/201510/21/20151021214935_zLVKC.jpeg
+logo: 
 build_config:
   include:
     - include
